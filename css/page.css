@@ -1,0 +1,30 @@
+.testBox {
+  background-color: #d5d9de;
+  border: 1px solid #a9acb0;
+  padding: 10px 20px;
+}
+.logo {
+  width: auto;
+  height: 150px;
+}
+.banner {
+  height: 150px;
+  background-image: url();
+  background-size: cover;
+  background-position: center center;
+}
+.callOuts {
+  border: 1px solid #d5d9de;
+}
+.callOuts img {
+  height: auto;
+  width: 100px;
+}
+
+/*Bottom area*/
+.bottomArea {
+  background-color: #424242;
+  height: 250px;
+  color: fff;
+  font-size: 0.8rem;
+}
